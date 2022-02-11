@@ -12,7 +12,7 @@ Markdown==2.6.11
 numpy==1.16.2
 opencv-python==3.4.2.16
 Pillow==5.2.0
-protobuf==3.6.1
+protobuf==3.15.0
 PyYAML==3.13
 scipy==1.1.0
 six==1.11.0
